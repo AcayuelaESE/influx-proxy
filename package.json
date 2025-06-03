@@ -1,0 +1,13 @@
+{
+  "name": "influx-proxy",
+  "version": "1.0.0",
+  "main": "influx-proxy.js",
+  "type": "module",
+  "scripts": {
+    "start": "node influx-proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
